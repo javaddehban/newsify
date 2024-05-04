@@ -1,0 +1,5 @@
+package app.news.com.news
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
